@@ -44,7 +44,7 @@ jobs:
         host: 188.245.157.167
         username: root
         password: totonono
-        source: "/home/runner/work/DemoCICD/demoCICD-0.0.1-SNAPSHOT.jar"
+        source: "/home/runner/work/DemoCICD/DemoCICD/demoCICD-0.0.1-SNAPSHOT.jar"
         target: /home/clara/
 
     - name: Restart app in server
